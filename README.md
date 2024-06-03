@@ -6,6 +6,4 @@ This is a demo repository
 
 Tutorial on github
 
-## Local development
-
 1. Open index.html in your browser
